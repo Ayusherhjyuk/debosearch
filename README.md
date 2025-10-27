@@ -31,6 +31,8 @@ _(Deployed via Vercel)_
 - 🧠 **React Context API** for global state
 - 🌀 **Framer Motion** for subtle animations
 - ✅ **ESLint + Prettier** for code consistency
+- 🧩**Click to Open Repository** – Clicking a repo card instantly opens its GitHub page.
+- ⭐**Fully Mobile Responsive** – Works seamlessly on phones, tablets, and desktops. 
 
 ---
 
