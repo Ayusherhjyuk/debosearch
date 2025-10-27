@@ -1,15 +1,24 @@
-# 🪄 DeboSearch – GitHub Repository Search & Bookmark App
+# 🪄 Reposcout – GitHub Repository Search & Bookmark App
 
-A modern, lightweight React micro-app that lets users **search** and **bookmark** GitHub repositories with a beautiful glassmorphic UI ✨  
-
-Built with **React + TypeScript + TailwindCSS + Vite**, following real-world patterns for performance and maintainability.
+A modern, lightweight React micro-app that lets users **search** and **bookmark** GitHub repositories with a beautiful **glassmorphic dark UI** ✨  
+Built with **Vite + TypeScript + Tailwind CSS**, featuring smooth animations, fast performance, and full **mobile responsiveness** 📱.
 
 ---
 
 ## 🚀 Demo
 
-🔗 **Live Demo:** [https://debosearch.vercel.app](https://debosearch.vercel.app)  
+🔗 **Live Demo:** [https://reposcout-dun.vercel.app](https://reposcout-dun.vercel.app)  
 _(Deployed via Vercel)_
+
+---
+
+## 🖼️ Preview
+
+### 🌌 Home Page
+![Home Page](https://drive.google.com/uc?export=view&id=11jUDJyY_dW2PCyIiGtbtFrlCRqoP85wN)
+
+### ⭐ Bookmark View
+![Bookmark Page](https://drive.google.com/uc?export=view&id=1_HWabUimXg4cJaJc6CLMtWXviElFm7RS)
 
 ---
 
